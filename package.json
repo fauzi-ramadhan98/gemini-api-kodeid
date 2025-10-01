@@ -1,0 +1,27 @@
+{
+  "name": "gemini-api-kodeid",
+  "version": "1.0.0",
+  "description": "Repository untuk Final Project Program Kode.Id AI Productivity and AI API Integration for Developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fauzi-ramadhan98/gemini-api-kodeid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/fauzi-ramadhan98/gemini-api-kodeid/issues"
+  },
+  "homepage": "https://github.com/fauzi-ramadhan98/gemini-api-kodeid#readme",
+  "dependencies": {
+    "@google/genai": "^1.21.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "multer": "^2.0.2"
+  }
+}
